@@ -1,0 +1,1 @@
+Created texture colors so that the drones materials react with the estimated lighting shader

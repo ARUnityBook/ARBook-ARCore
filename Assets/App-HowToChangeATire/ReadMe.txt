@@ -1,0 +1,1 @@
+Changed  ARGraphic.cs to parent the object once it is instanciated.
